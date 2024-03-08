@@ -23,7 +23,11 @@ Desarrollado por un equipo multidisciplinario con un DevOps, una tester QA, una 
 Coordinación y comunicación a través de plataformas como Meet, Slack, Discord, WhatsApp, Trello, Figma y GitHub.
 
 # Documentación generada en el área QA:
-<li>Requisitos del producto y User Stories: https://drive.google.com/file/d/1-8HBoFOS66ocBUwIpMXxCHlkyNWUdvl6/view?usp=sharing </li>
-<li>Plan de Pruebas: https://drive.google.com/file/d/1MRV4jCSr5WoMfQ855FtA1U6Zre4oGRib/view?usp=drive_link</li>
-<li>Casos de Pruebas y Bugs: https://docs.google.com/spreadsheets/d/1RxVla1yVe4TVR9Pry47IsJ2NzH3PBfhUqzxenLGnVjo/edit?usp=sharing</li>
-<li>Informe Final: https://drive.google.com/file/d/1vdGhmFBHDcatEn214fneuoa88ZQWXCqD/view?usp=sharing</li>
+### <li>Requisitos del producto y User Stories:</li>
+  https://drive.google.com/file/d/1-8HBoFOS66ocBUwIpMXxCHlkyNWUdvl6/view?usp=sharing 
+### <li>Plan de Pruebas:</li>
+  https://drive.google.com/file/d/1MRV4jCSr5WoMfQ855FtA1U6Zre4oGRib/view?usp=drive_link
+### <li>Casos de Pruebas y Bugs:</li>
+  https://docs.google.com/spreadsheets/d/1RxVla1yVe4TVR9Pry47IsJ2NzH3PBfhUqzxenLGnVjo/edit?usp=sharing
+### <li>Informe Final:</li>
+  https://drive.google.com/file/d/1vdGhmFBHDcatEn214fneuoa88ZQWXCqD/view?usp=sharing
