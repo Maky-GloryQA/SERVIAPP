@@ -1,6 +1,7 @@
+# Participación en simulación laboral NO COUNTRY
+Equipo: C16-28 n-node-react
 
-
- # PARTICIPACION EN PROYECTO SERVIAPP - NO COUNTRY:
+# PROYECTO:
 <img src="https://res.cloudinary.com/dq9icw8vb/image/upload/v1709388024/mczmuz3tirvjkm1cvtjg.png" />
 <p>ServiApp es una aplicación web desarrollada como un MVP en un mes (Del 05/02/2024 al 08/03/2024), con el objetivo de conectar personas que necesitan un servicio con personas que lo ofrecen.</p>
 
@@ -16,12 +17,12 @@
 <li>Diseñar una interfaz intuitiva y centrada en el usuario.</li>
 </ul>
 
-## Desarrollo del producto 
+# Desarrollo del producto 
 
 Desarrollado por un equipo multidisciplinario con un DevOps, una tester QA, una diseñadora UI/UX, un PM, 2 desarrolladores backend y 5 desarrolladores frontend.
 Coordinación y comunicación a través de plataformas como Meet, Slack, Discord, WhatsApp, Trello, Figma y GitHub.
 
-## Documentación generada en el área QA:
+# Documentación generada en el área QA:
 <li>Requisitos del producto y User Stories: https://drive.google.com/file/d/1-8HBoFOS66ocBUwIpMXxCHlkyNWUdvl6/view?usp=sharing </li>
 <li>Plan de Pruebas: https://drive.google.com/file/d/1MRV4jCSr5WoMfQ855FtA1U6Zre4oGRib/view?usp=drive_link</li>
 <li>Casos de Pruebas y Bugs: https://docs.google.com/spreadsheets/d/1RxVla1yVe4TVR9Pry47IsJ2NzH3PBfhUqzxenLGnVjo/edit?usp=sharing</li>
