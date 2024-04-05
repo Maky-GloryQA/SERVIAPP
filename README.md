@@ -22,6 +22,9 @@ Equipo: C16-28 n-node-react
 Desarrollado por un equipo multidisciplinario con un DevOps, una tester QA, una diseñadora UI/UX, un PM, 2 desarrolladores backend y 5 desarrolladores frontend.
 Coordinación y comunicación a través de plataformas como Meet, Slack, Discord, WhatsApp, Trello, Figma y GitHub.
 
+# SERVIAPP:
+https://github.com/No-Country/c16-28-n-node-react
+
 # Documentación generada en el área QA:
 ### <li>Requisitos del producto y User Stories:</li>
   https://drive.google.com/file/d/1-8HBoFOS66ocBUwIpMXxCHlkyNWUdvl6/view?usp=sharing 
