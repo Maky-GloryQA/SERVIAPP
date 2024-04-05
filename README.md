@@ -1,7 +1,7 @@
 # Participación en simulación laboral NO COUNTRY
 Equipo: C16-28 n-node-react
 
-# PROYECTO:
+# PROYECTO: https://github.com/No-Country/c16-28-n-node-react
 <img src="https://res.cloudinary.com/dq9icw8vb/image/upload/v1709388024/mczmuz3tirvjkm1cvtjg.png" />
 <p>ServiApp es una aplicación web desarrollada como un MVP en un mes (Del 05/02/2024 al 08/03/2024), con el objetivo de conectar personas que necesitan un servicio con personas que lo ofrecen.</p>
 
@@ -21,9 +21,6 @@ Equipo: C16-28 n-node-react
 
 Desarrollado por un equipo multidisciplinario con un DevOps, una tester QA, una diseñadora UI/UX, un PM, 2 desarrolladores backend y 5 desarrolladores frontend.
 Coordinación y comunicación a través de plataformas como Meet, Slack, Discord, WhatsApp, Trello, Figma y GitHub.
-
-# SERVIAPP:
-https://github.com/No-Country/c16-28-n-node-react
 
 # Documentación generada en el área QA:
 ### <li>Requisitos del producto y User Stories:</li>
